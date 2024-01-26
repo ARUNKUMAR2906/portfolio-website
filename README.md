@@ -17,7 +17,7 @@ This is a simple portfolio website created using HTML and CSS. It consists of tw
 - Clean and minimalistic layout
 
 ## Demo
-You can see a live demo of the portfolio website [here](insert-live-demo-link).
+You can see a live demo of the portfolio website [here](https://arunkumar2906.github.io/portfolio-website/).
 
 ## Installation
 1. Clone the repository: `git clone https://github.com/your-username/your-portfolio.git`
